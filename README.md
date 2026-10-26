@@ -12,8 +12,9 @@ The dataset was cleaned and split into training, validation, and test sets. See 
 ## Project Structure
 - `run_tabpfn.py` — TabPFN training and validation evaluation.
 - `run_tabpfn_test.py` — TabPFN test evaluation.
-- `run_tabpfn_explainability.py` — Permutation Feature Importance.
+- `run_tabpfn_explainability.py` — Permutation Feature.
 - `logistic_regression.R` — Logistic Regression baseline.
+- `data/` 
 - `results/` — Evaluation outputs and charts.
 - `requirements.txt` — Python dependencies.
 
